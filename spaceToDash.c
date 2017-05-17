@@ -18,7 +18,6 @@ void space_to_dash(const char *str){
 	}
 
 }
-
 int main(){
 	space_to_dash("isso eh um teste");
 	return 0;
