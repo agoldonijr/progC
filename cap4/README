@@ -1,0 +1,6 @@
+Matrizes e strings
+
+matriz eh uma colecao de variavis de mesmo tipo. Para acessar um elemento da matriz, usa-se indices. 
+A matriz mais comum em C eh a de strings.
+
+Em C matrizes esta intimamente relacionadas aos ponteiros.
