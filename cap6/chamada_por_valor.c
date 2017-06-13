@@ -1,3 +1,5 @@
+//passagem de parametros por valor
+
 #include <stdio.h>
 
 int ao_quadrado (int x){
