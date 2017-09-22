@@ -1,3 +1,7 @@
+/*
+	Primeiro contato com matrizes bidimensionais utilizando um exemplo de uma turma de alunos e suas notas
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
